@@ -1,0 +1,6 @@
+{
+"State" : {"players" : {"map" : "Player"}},
+"Vector" : {"x" : "number","y" : "number","z" : "number"},
+"Transform" : {"pos" : "Vector","rot" : "Vector"},
+"Player" : {"id" : "string","hash " : "string","userId" : "string","transform" : "Transform","state" : "number"}
+}
